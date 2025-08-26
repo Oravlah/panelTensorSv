@@ -1,0 +1,1 @@
+import{Nb as r,Ub as s,ha as a,vb as i,wb as o}from"./chunk-XKZZ5MB7.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=a({type:e,selectors:[["app-vencidas"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,d){n&1&&(i(0,"p"),r(1,"vencidas works!"),o())}});let t=e;return t})();export{f as default};

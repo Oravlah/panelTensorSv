@@ -1,0 +1,1 @@
+import{Nb as i,Ub as s,ha as a,vb as r,wb as o}from"./chunk-XKZZ5MB7.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=a({type:e,selectors:[["app-crear"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(r(0,"p"),i(1,"crear works!"),o())}});let t=e;return t})();export{f as default};

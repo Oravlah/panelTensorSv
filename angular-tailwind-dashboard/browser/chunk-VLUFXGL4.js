@@ -1,0 +1,1 @@
+import{Nb as r,Ub as s,ha as n,vb as a,wb as i}from"./chunk-XKZZ5MB7.js";var f=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-todos"]],standalone:!0,features:[s],decls:2,vars:0,template:function(o,p){o&1&&(a(0,"p"),r(1,"todos works!"),i())}});let t=e;return t})();export{f as default};

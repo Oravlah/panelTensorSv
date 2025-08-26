@@ -1,0 +1,1 @@
+import{Nb as i,Ub as s,ha as n,vb as r,wb as a}from"./chunk-XKZZ5MB7.js";var f=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-borradores"]],standalone:!0,features:[s],decls:2,vars:0,template:function(o,p){o&1&&(r(0,"p"),i(1,"borradores works!"),a())}});let t=e;return t})();export{f as default};

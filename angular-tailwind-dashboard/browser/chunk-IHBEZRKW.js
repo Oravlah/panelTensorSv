@@ -1,0 +1,1 @@
+import{Nb as r,Ub as s,ha as i,vb as o,wb as a}from"./chunk-XKZZ5MB7.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=i({type:e,selectors:[["app-pendientes"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,d){n&1&&(o(0,"p"),r(1,"pendientes works!"),a())}});let t=e;return t})();export{f as default};

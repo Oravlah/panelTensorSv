@@ -1,0 +1,1 @@
+import{Nb as r,Ub as s,ha as n,vb as o,wb as i}from"./chunk-XKZZ5MB7.js";var l=(()=>{let e=class e{};e.\u0275fac=function(a){return new(a||e)},e.\u0275cmp=n({type:e,selectors:[["app-completadas"]],standalone:!0,features:[s],decls:2,vars:0,template:function(a,c){a&1&&(o(0,"p"),r(1,"completadas works!"),i())}});let t=e;return t})();export{l as default};

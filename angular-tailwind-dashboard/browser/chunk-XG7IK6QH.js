@@ -1,0 +1,1 @@
+import{Nb as o,Ub as r,ha as n,vb as i,wb as s}from"./chunk-XKZZ5MB7.js";var f=(()=>{let e=class e{};e.\u0275fac=function(a){return new(a||e)},e.\u0275cmp=n({type:e,selectors:[["app-estadisticas"]],standalone:!0,features:[r],decls:2,vars:0,template:function(a,d){a&1&&(i(0,"p"),o(1,"estadisticas works!"),s())}});let t=e;return t})();export{f as default};
